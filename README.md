@@ -15,4 +15,4 @@ To reproduce the analyses of the talk, run `analysis.Rmd`.
 
 ## License
 
-This work is released under the MIT License (see `LICENSE.md`).
+This work is released under the MIT License (see `LICENSE`).
